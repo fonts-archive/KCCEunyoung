@@ -15,7 +15,7 @@ font-family: 'KCC Eunyoung';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCEunyoung/KCCEunyoung.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCEunyoung/KCCEunyoung.css" type="text/css"/>
 ```
 
 &nbsp;
